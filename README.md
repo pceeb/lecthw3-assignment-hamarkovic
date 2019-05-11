@@ -44,3 +44,11 @@ The white space between letters / morse code sets is a tab.  e.g `E	.\tM	--\tI	.
 
 ## __How you submit your answers__  
 Include all the scripts you wrote in this repository.
+
+## Grade HW4: 8/8 Nice work!!! :thumbsup:
+
+| **Rubric** | **4pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- |
+| Challenge - Effort | | **X** | |
+| Challenge - Accuracy | **X** | | |
+| Challenge - Timely Submission | | **X** | |
